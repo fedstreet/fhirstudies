@@ -11,17 +11,6 @@
 - PyPI status: 4-Beta
 - Commits to master for the last 3 months (2020-07-11): 1
 
-### fhir
-
-- Open source: Yes
-- Git repo: N/A, only source archive is available
-- License: GNU GPL-3
-- Stars (2020-07-11): N/A
-- Contributors (2020-07-11): N/A
-- Last release (2020-07-11): 0.0.4 (2014-04-18)
-- PyPI status: 3-Alpha
-- Commits to master for the last 3 months (2020-07-11): N/A
-
 ### fhirpy
 
 - Open source: Yes
@@ -44,13 +33,32 @@
 - PyPI status: 5-Production/Stable
 - Commits to master for the last 3 months (2020-07-11): 44
 
+### fhir
+
+- Open source: Yes
+- Git repo: N/A, only source archive is available
+- License: GNU GPL-3
+- Stars (2020-07-11): N/A
+- Contributors (2020-07-11): N/A
+- Last release (2020-07-11): 0.0.4 (2014-04-18)
+- PyPI status: 3-Alpha
+- Commits to master for the last 3 months (2020-07-11): N/A
+
 
 ## Usage
 
 ### fhirclient (SMART on FHIR)
 
-### fhir
+...
 
 ### fhirpy
 
+...
+
 ### fhir.resources
+
+...
+
+### fhir
+
+UNSUPPORTED. Could not be installed lately.
