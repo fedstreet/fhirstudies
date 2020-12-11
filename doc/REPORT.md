@@ -49,7 +49,8 @@
 
 ### fhirclient (SMART on FHIR)
 
-...
+Failed for base "http://hapi.fhir.org/baseR4": wrong definition type.
+Worked for base "http://hapi.fhir.org/baseDstu3".
 
 ### fhirpy
 

@@ -1,3 +1,4 @@
 {
-  "fhirApiBaseUrl": "http://hapi.fhir.org"
+  "fhirApiBaseUrl_0": "http://hapi.fhir.org/baseR4",
+  "fhirApiBaseUrl": "http://hapi.fhir.org/baseDstu3"
 }
